@@ -1,0 +1,26 @@
+.header {
+    padding:30px 40px;
+    text-align: center;
+}
+
+ul {
+    width: 600px;
+    margin: 0 auto;
+}
+
+li {
+    list-style-type: none;
+    /*padding: 12px 8px 12px 8px;*/
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid gray;
+}
+
+li button {
+    float: right;
+}
+
+.state {
+    text-decoration: line-through;
+    opacity: .5;
+}
